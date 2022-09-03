@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @dhleea
-- 👀 I'm currently working on medicine
-- 👀 I’m interested in 
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on ...
+- 👀 I'm currently working on medicine.
+- 👀 I’m interested in computer science applying on medical field. Currently interested in brain, espicially stroke. 
+- 🌱 I’m currently learning reinforcement learning, machine learning, NLP. 
+- 💞️ I’m looking to collaborate on computational medical science.
 - 📫 How to reach me :
-      e-mail : donghyun630@naver.com / qlf630@gmail.com 
+      e-mail : qlf630@gmail.com 
       website : dhleea.github.io
 - Pronouns : he/his/his
 
